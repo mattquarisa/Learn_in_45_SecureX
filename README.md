@@ -1,30 +1,20 @@
 # Learn in 45: Building Process Automation Workflows with SecureX Orchestration
 
-Thanks for joining the SecureX Orchestration Learn in 45 session! This repository contains an example workflow that you can import into SecureX to play a black jack style card game. We'll be having you try out this workflow during the session to win prizes!
+Thanks for joining the SecureX Orchestration Learn in 45 session! This repository contains sample code that you can import into SecureX to play a Blackjack style card game with the Cisco Action Orchestrator. We'll be having you try out this workflow during the session to win prizes!
 
 ## Getting Started
 
-|  Module  |  Difficulty  | Description |
-|  ---  |  ---  | --- |
-|  Doing more with Webex | Beginner | To start off, let's try creating a workflow to integrate Webex with another application! Try using [IFTTT](https://ifttt.com/explore), [Make](https://apphub.webex.com/applications/make-make), or [Power Automate](https://apphub.webex.com/applications/microsoft-power-automate-for-webex-cisco-systems-61111) to do this. Feel free to create anything! |
-|  [Orchestrating with SecureX](https://developer.cisco.com/learning/modules/SecureX-orchestration/Cisco-SecureX-101-lab/step/1)| Intermediate | In this module, you will learn about orchestration within SecureX – an integrated and open platform that connects Cisco’s Secure portfolio. SecureX orchestration is an automation and orchestration platform that uses a no-to-low code approach to deliver high-performance, scalable process automation. Using this platform, we can simplify investigation and data collection, automate repetitive tasks, integrate disparate systems, and more. Orchestration within SecureX works closely with many of Cisco’s products as well as products from third parties. |
-| [Using Node-RED with Meraki APIs](https://community.meraki.com/t5/Meraki-Node-RED-API-E-Learning/ct-p/apitraining) | Advanced | In this module, you will become familiar with Node-RED, an open source flow based development tool for visual programming. You will see how you can use Node-RED to interact with Meraki APIs in real-time, and integrate with other platforms. |
+First, let's navigate to the dCloud instance we'll use to try out SecureX Orchestration. Navigate to [dCloud](https://dcloud.cisco.com/) and search SecureX Orchestration in the catalog. Select "Cisco SecureX Orchestration v1 - Instant Demo"
+
+![S1](/images/dCloud-SecureX.png)
+
+Now Navigate to the Orchestration tab
 
 ## Platforms used in these modules
 
-[Webex](https://developer.webex.com/)
-
-[Cisco Meraki](https://developer.cisco.com/meraki/meraki-platform/)
-
 [SecureX](https://developer.cisco.com/securex/)
 
-[Node-RED](https://nodered.org/about/)
-
-[Power Automate](https://powerautomate.microsoft.com/en-US/connectors/details/shared_webex/webex/)
-
-[IFTTT](https://ifttt.com/explore)
-
-[Make](https://www.make.com/en/integrations/webex-teams)
+[SecureX Orchestration](https://developer.cisco.com/securex/orchestration/)
 
 ## Getting help
 
