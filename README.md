@@ -4,13 +4,13 @@ Thank you for joining the SecureX Orchestration Learn in 45 session! This reposi
 
 ## Getting Started
 
-If you haven't already, clone this repository onto your local machine. You can do this by selecting "Download ZIP", or through your bash shell if you have git installed locally.
+If you haven't already, clone this repository onto your local machine. You can do this by selecting *Download ZIP*, or through your bash shell if you have git installed locally.
 
 
 ![S1](/images/Git-Clone.png)
 
 
-First, let's navigate to the dCloud instance of SecureX we will use for orchestration. Navigate to [dCloud](https://dcloud.cisco.com/) and search SecureX Orchestration in the catalog. Select and launch the "Cisco SecureX Orchestration v1 - Instant Demo".
+First, let's navigate to the dCloud instance of SecureX we will use for orchestration. Navigate to [dCloud](https://dcloud.cisco.com/) and search SecureX Orchestration in the catalog. Select and launch the *Cisco SecureX Orchestration v1 - Instant Demo*.
 
 
 ![S2](/images/dCloud-SecureX.png)
@@ -22,13 +22,13 @@ After launching SecureX, navigate to the Orchestration tab. Here, you will see a
 ![S3](/images/Orchestration-Workflows.png)
 
 
-Select *Import* and then *Browse*. You will have the option to import a JSON file from your local desktop into SecureX. Select  the *black-jack.json* file you downloaded at the start.  Make sure to select "Import as a new workflow" - this is needed because we will all be sharing the same dCloud SecureX environment.
+Select *Import* and then *Browse*. You will have the option to import a JSON file from your local desktop into SecureX. Select  the black-jack.json file you downloaded at the start.  Make sure to select **Import as a New Workflow** - this is needed because we will all be sharing the same dCloud SecureX environment.
 
 
 ![S4](/images/Import-Workflow.png)
 
 
-After importing the JSON file, select the new workflow that will appear in your menu. You will now be able to edit your imported workflow. Let's adjust the title to make it distinguishable from other's importing the same workflow.
+After importing the JSON file, select the new workflow that will appear in your menu to view in detail. Let's edit the title to make it distinguishable from other's importing the same.
 
 
 ![S5](/images/Adjust-Title.png)
@@ -43,7 +43,7 @@ If you run this workflow as is, you'll notice a final block will fail that invol
 ![S7](/images/Set-Webex-Auth.png)
 
 
-You should now be all set to run the script! Select Run and enter in values into the two input variables - Participants and Cards to Draw. Select a number of cards between two and four.
+You should now be all set to run the script! Select *Run* and enter in values into the two input variables - Participants and Cards to Draw. Select a number of cards between two and four.
 
 
 ![S8](/images/Run.png)
